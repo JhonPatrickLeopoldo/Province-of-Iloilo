@@ -1,0 +1,34 @@
+body{
+
+	background-color: rgb(169, 127, 76);
+
+}
+
+.head{
+	display: flex;
+	align-items: center;
+	background-color: rgb(255, 199, 76);
+}
+
+
+.pics{
+	height: 250px;
+	width: 250px;
+	border-radius: 20% ;
+	border: 2px solid black;
+
+}
+
+.picsone{
+	height: 500px;
+	width: 500px;
+	border-radius: 50% ;
+	border: 2px solid black;
+}
+
+.logo{
+	height: 100px;
+	width: 100px;
+	box-align: left;
+
+}
